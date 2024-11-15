@@ -1,1 +1,1 @@
-# BCS-353-Pustak-A-Library-Management-System
+# Capstone
